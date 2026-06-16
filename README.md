@@ -48,7 +48,6 @@ const orgAzienda = {
         ]
 
 
-
     }, repartoMagazzino: {
         dipendenti: [
             { nome: "Rosario", cognome: "Adersoni" },
